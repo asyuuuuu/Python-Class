@@ -4,3 +4,4 @@
 3. Dictionary
 4. Python Library
 5. Data Wrangling
+6. EDA
